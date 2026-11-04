@@ -1,2 +1,2 @@
-# KNMI-machine-learning-model
- Very basic machine learning model with weather data
+# KNMI-weather-prediction
+ Extremely basic machine learning model trained on KNMI weather data exercise
